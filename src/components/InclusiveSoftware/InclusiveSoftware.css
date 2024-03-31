@@ -1,0 +1,136 @@
+.inclusive-software-container {
+    text-align: center;
+  }
+  
+  .big-box {
+    margin-left: 4in;
+    margin-right: 4in;
+    background-color: #a0e1d8; 
+    padding: 20px;
+    border-radius: 20px;
+  }
+  
+  .why-stark-heading {
+    margin-top: 20px;
+    font-size: 10px;
+    color: blue;
+  }
+  
+  .main-headingIS {
+    color: black;
+    margin-top: 30px;
+  }
+  
+  .icons-container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    max-width: 800px; 
+    margin: 0 30px; 
+    margin-top: 50px;
+  }
+  
+  .icon {
+    text-align: left;
+    width: calc(50% - 10px); 
+    margin-bottom: 20px; 
+  }
+  
+  .icon img {
+    width: 50px; 
+  }
+  
+  .icon h3 {
+    color: blue; 
+    font-size: 1.2rem;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .icon p {
+    font-size: 0.8rem;
+    color: #333; 
+  }
+
+
+
+
+
+  
+.new-box {
+    margin-top: 1in;
+    margin-left: 4in;
+    margin-right: 4in;
+    background-color: white; 
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 2in;
+  }
+  
+  .left-side {
+    flex: 4;
+  }
+  
+  .right-side {
+    flex: 6;
+    padding: 20px;
+  }
+  
+  .small-heading {
+    color: blue;
+    font-size: 0.72rem;
+    margin-bottom: 20px;
+    margin-right: 52px;
+  }
+  
+  .main-headingSD {
+    font-size: 2.4rem;
+    color: black;
+    margin-bottom: 50px;
+    text-align: left;
+    margin-left: 3in;
+  }
+  
+  .blue-heading {
+ cursor: pointer;
+    color: blue;
+    margin-bottom: 3px;
+    margin-right: 2.85in;
+  }
+  .blue-heading2 {
+    cursor: pointer;
+    color: blue;
+    margin-bottom: 3px;
+    margin-right: 2.75in;
+  }
+  .blue-heading3 {
+    cursor: pointer;
+    color: blue;
+    margin-bottom: 3px;
+    margin-right: 2.1in;
+  }
+
+  .blue-heading4 {
+    cursor: pointer;
+    color: blue;
+    margin-bottom: 3px;
+    margin-right: 1.75in;
+  }
+  
+
+
+  .new-data-box p {
+    font-size: 0.7rem;
+    color: black; 
+    margin-bottom: 30px;
+  }
+
+  .new-data-box {
+    text-align: right;
+    margin-right: 0.6in; 
+  }
+
+
+  
+  
+  

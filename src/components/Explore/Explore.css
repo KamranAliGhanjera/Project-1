@@ -1,0 +1,73 @@
+.explore-container {
+  margin-top: 150px;
+  text-align: center;
+  padding: 0 20rem; 
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.explore-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 -2rem; 
+}
+
+  
+  .explore-main-heading {
+    color: blue;
+    font-size: 1.5rem;
+  }
+  
+  .explore-sub-heading {
+    font-size: 2.5rem;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  
+  
+  
+  .explore-image {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+  }
+  
+  .explore-plugins-heading {
+    color: blue;
+    font-weight: bold;
+  }
+
+  .explore-highlight-text {
+    font-size: 10px;
+    font-weight: bold;
+    color: rgb(83, 83, 240);
+    margin-bottom: 10px;
+  }
+  .additional-text {
+    color: black;
+    font-size: 12px; 
+    margin-top: 10px;
+    margin-left: 20px;
+    line-height: 1.5; 
+    margin-bottom: 1.5rem; 
+  }
+  
+
+  .button-container {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px
+  }
+  
+  .get-started-button {
+    background-color: #2704ec;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

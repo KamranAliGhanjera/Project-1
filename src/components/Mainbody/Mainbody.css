@@ -1,0 +1,48 @@
+.main-body-container {
+  text-align: center;
+  margin-top: 90px; 
+  background-image: url('../images/bk-image.png'); 
+  background-size: cover;
+  background-position: top center; 
+  height: 110vh; 
+  margin: 0; 
+  
+  padding: 50px; 
+}
+  
+  .main-heading {
+   
+    font-size: 7rem; 
+    font-weight: bold;
+    color: white;
+  }
+  
+  .sub-heading {
+    margin-top: 30px; 
+    color: white;
+  }
+
+  .sub-heading br {
+    display: block;
+    content: " ";
+    margin-bottom: 10px; 
+  }
+  
+  .signup-button {
+    background-color: rgba(240, 240, 18, 0.856);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem; 
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 30px; 
+    border-radius: 8px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .signup-button:hover {
+    background-color: white; 
+    color: blue; 
+  }
+  

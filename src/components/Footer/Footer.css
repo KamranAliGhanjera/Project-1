@@ -1,0 +1,103 @@
+.footer {
+    background-color: #333;
+    color: #ddd;
+    padding: 20px 2%;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .container {
+    max-width: 100%;
+    display: flex;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin-left: 41vh;
+    margin-right: 41vh;
+  }
+  
+  .heading {
+    font-weight: bold;
+    margin: 0 20px; 
+  }
+
+
+  .product, .news, .contact {
+    margin-top: 10vh;
+    font-weight: bold;
+  }
+
+
+
+  .product {
+  
+    margin-right: 170px;
+  }
+   .news{
+    margin-right: 206px;
+   } 
+   .contact {
+    margin-right: 300px;
+   }
+
+
+  
+  .subheadings1, .subheadings2, .subheadings3, .subheadings4 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-top: 10px; 
+  }
+  
+  .subheadings1 p, .subheadings2 p, .subheadings3 p, .subheadings4 p   {
+    margin: 0;
+  }
+  
+  .subheadings1 {
+    margin-left: 43.5vh;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .subheadings2 {
+    margin-left: 82vh;
+   margin-top: -15vh;
+   gap: 10px;
+  }
+
+  .subheadings3 {
+    margin-left: 121vh;
+   margin-top: -15vh;
+   gap: 10px;
+  }
+
+  .subheadings4 {
+    margin-left: 152vh;
+   margin-top: -15vh;
+   gap: 10px;
+  }
+
+
+
+ 
+
+  .icons-containerFO {
+    width: 100%; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin-top: 15vh;
+    flex-wrap: nowrap; 
+  }
+  
+  .icons-containerFO .iconFO {
+    margin-left: 20px; 
+  }
+  
+  .additional-textFO {
+    color: #ddd;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center; 
+  }

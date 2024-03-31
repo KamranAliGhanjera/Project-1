@@ -1,0 +1,48 @@
+.continuous-accessibility-container {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 2in;
+  }
+  
+  .big-picture-container {
+    margin-top: 50px;
+  }
+  
+  .big-picture {
+    width: 100%;
+    max-width: 1000px; 
+    height: auto;
+  }
+  
+  .main-headingc {
+    color: black;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-top: 50px;
+  }
+  
+  .description {
+    font-size: 1rem;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 4in;
+    margin-right: 4in;
+  }
+  
+  .start-trial-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .start-trial-button:hover {
+    background-color: #0066cc; 
+  }
+

@@ -1,0 +1,46 @@
+.enterprise-container {
+    text-align: center;
+    
+  }
+  
+  .big-picture-container {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+  }
+  
+  .big-picture {
+    width: 100%;
+    max-width: 1000px; 
+    height: auto;
+  }
+  
+  .main-headingE {
+    color: black;
+    font-size: 2.5rem;
+    margin-top: 30px;
+  }
+  
+  .description {
+    font-size: 1rem;
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
+  
+  .request-demo-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    margin-bottom: 100px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .request-demo-button:hover {
+    background-color: #0066cc; /
+  }
+  
